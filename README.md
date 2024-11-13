@@ -2,7 +2,7 @@
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
 # Reg.No : 212223110061
 # Name : S.VENGADA KRISHNAN
-# Date : 03.10.2024
+# Date : 17.10.2024
 # Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
 # ALGORITHM
